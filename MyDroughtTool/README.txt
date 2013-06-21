@@ -6,8 +6,15 @@
 - The folder "MyDroughtTool" contains all the subfolders, scripts, and ArcGIS toolbox necessary to install
 and run the GriddedExtremes.tbx within ArcGIS (version 10 and 10.1).
 
-- The folder "Original R Scripts" contains the R scripts used to run EVD in their original format and used in 
-the journal paper Tonini et al. 2012
+- My toolbox is still in version Beta for testing bugs etc. Keep checking the repository for more updates to the version
+ 
+
+*****
+NOTE:
+*****
+
+ArcGIS Versions 10 and 10.1
+Tested successfully in R Version 2.15
 
 
 **************************************************************
